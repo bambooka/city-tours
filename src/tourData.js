@@ -9,7 +9,7 @@ export const tourData = [
     {
         id: 2,
         city: 'Paris',
-        img: './img/paris.jpg',
+        img: './img/singapore.jpg',
         name: 'paris views',
         info: 'something info something info something info something info something info something info '
     },
