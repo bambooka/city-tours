@@ -20,8 +20,8 @@ export default class Tour extends React.Component{
         return (
             <article className="tour">
                 <div className="img-container">
-                    <img src={img} alt={info}/>
-                    <span className="close-btn">
+                    <img src={img} alt={id}/>
+                    <span className="close-btn" onClick={() => removeTour(id)}>
                         <i className="fa fa-window-close" />
                     </span>
                 </div>

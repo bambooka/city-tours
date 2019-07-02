@@ -14,14 +14,14 @@ export const tourData = [
         info: 'something info something info something info something info something info something info '
     },
     {
-        id: 1,
+        id: 3,
         city: 'Melbourn',
         img: './img/australia.jpg',
         name: 'melbourn views',
         info: 'something info something info something info something info something info something info '
     },
     {
-        id: 1,
+        id: 4,
         city: 'London',
         img: './img/london.jpg',
         name: 'london views',
